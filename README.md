@@ -12,3 +12,4 @@ TripStore es una aplicación que te ayudará a conseguir aquellos productos tecn
 - Josef Cesar Romero Florida
 - [Andrea Sofia Alfaro Salinas](https://github.com/asofialf)
 - Yoimer Yanir Dávila Ramirez
+- Farid Josué Izquierdo Cristobal
